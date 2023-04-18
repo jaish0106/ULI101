@@ -1,0 +1,19 @@
+Brauer,Eric,volunteer,0.00,regular,M
+Brauer,Eric,volunteer,0.00,regular,M
+De Boer,Vincent,attendee,50.00,regular,L
+de Boer,Vincent,speaker,0.00,regular,L
+Hong,Bruce,attendee,50.00, gluten free,S
+Hernandez,Mark,speaker,0.00, regular,M
+hernandez,mark,VIP,0.00, regular,m
+Siegel,Les,contributor,250.00,vegetarian,L
+Toombs,Laura,attendee,50.00,vegan,S
+Patel,Ami,speaker,0.00,vegan,S
+PATEL,AMI, CONTRIBUTOR,250.00,VEGAN,S
+Wentz,Markus,volunteer,0.00,vegetarian,XXL
+Leung,Bruce,volunteer,0.00,regular,M
+hernandez,mark,VIP,0.00, regular,L
+Johnson,Michael,speaker,0.00,beef & yogurt,L
+McBoatface,Boaty,attendee,50.00,diesel,XXXXL
+Smith,Tyler,speaker,0.00,regular,L
+Liu,Glaser,volunteer,0.00,vegetarian,M
+kim,jaeHyun,attendee,50.00,regular,M
